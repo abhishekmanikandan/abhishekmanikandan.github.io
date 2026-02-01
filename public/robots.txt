@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api
+
+Sitemap: https://abhishek1967.github.io/personal-site/sitemap.xml
